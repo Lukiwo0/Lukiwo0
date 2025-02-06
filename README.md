@@ -1,6 +1,6 @@
 # Bem vindo 👋
 
-- Olá, sou o lukiwo0, estudante de Ciência da Computação.
+- Olá, sou o lukiwo0.
 
 ---
 <div align="center">
