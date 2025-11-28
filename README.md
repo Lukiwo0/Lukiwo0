@@ -5,11 +5,9 @@
 ---
 
 <div align="center">
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukiwo0&show_icons=true&count_private=true&theme=radical" width="440"/>
-  
-  <!-- Linguagens principais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukiwo0&show_icons=true&include_all_commits=true&theme=radical" width="440"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukiwo0&layout=compact&theme=radical" width="313" />
+
 </div>
 
 ---
