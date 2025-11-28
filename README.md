@@ -16,7 +16,7 @@
 <p align="center">
 
   <!-- Kotlin + Java + Android -->
-  <img src="https://skillicons.dev/icons?i=kotlin,java,android,gradle&theme=light" height="40" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle&theme=light" height="40" />
 
   <!-- JavaScript / TypeScript -->
   <img src="https://skillicons.dev/icons?i=ts,js&theme=light" height="40" />
