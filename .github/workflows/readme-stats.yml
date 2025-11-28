@@ -2,7 +2,7 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 * * * *' # Atualiza a cada hora
+    - cron: '0 * * * *'
   push:
     branches:
       - main
@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update GitHub README Stats
-        uses: bnb/gh-action-profile-readme-stats@v2
+        uses: anuraghazra/github-readme-stats@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
